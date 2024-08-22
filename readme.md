@@ -1,0 +1,1 @@
+Switches to 'Answers' instead of 'All related' every time you visit Quora
