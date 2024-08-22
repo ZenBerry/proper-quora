@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Quora Auto Clicker",
+  "version": "1.0",
+  "permissions": ["tabs", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.quora.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
